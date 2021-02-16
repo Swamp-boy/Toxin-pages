@@ -1,0 +1,1 @@
+document.getElementById("nav-btn").addEventListener("click",(function(){var e=document.getElementsByClassName("navigation-block");"none"===e[0].style.display?e[0].style.display="block":e[0].style.display="none"}));

@@ -1,0 +1,1 @@
+(()=>{var e=document.getElementById("like1"),n=document.getElementById("span-like1");null!=e&&(e.onclick=function(){var c=n.innerHTML;e.checked?(c++,n.innerHTML=c):(c--,n.innerHTML=c)});var c=document.getElementById("like2"),i=document.getElementById("span-like2");null!=c&&(c.onclick=function(){var e=i.innerHTML;c.checked?(e++,i.innerHTML=e):(e--,i.innerHTML=e)})})();
