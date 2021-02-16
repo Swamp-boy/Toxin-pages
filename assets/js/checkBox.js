@@ -1,1 +1,0 @@
-(()=>{var e=document.getElementById("extra-check"),t=document.getElementById("extra-checkbox-list");e.addEventListener("click",(function(){"none"===t.style.display?t.style.display="block":t.style.display="none"}))})();
